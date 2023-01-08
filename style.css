@@ -1,0 +1,17 @@
+h1 {
+	font-family: "Lobster", cursive;
+	color: black;
+	text-align: center;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+ul li {
+	color: blue;
+}
+ol li {
+	color: orange;
+}
